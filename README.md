@@ -1,0 +1,1 @@
+Hello, my name is Zebastian Garica and this is my repository for my project files for Learning log from my class ICT362-U70 Software Technology 2. These are the current and working files as of 11/29/2025. 
